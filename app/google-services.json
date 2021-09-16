@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "779410727767",
+    "firebase_url": "https://aplikasi-arm-list-default-rtdb.firebaseio.com",
+    "project_id": "aplikasi-arm-list",
+    "storage_bucket": "aplikasi-arm-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779410727767:android:0bbbe54a2fad2774b21412",
+        "android_client_info": {
+          "package_name": "com.arm.aplikasiarmlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779410727767-flj8infg75sc1bm2610mmebp2c4fsijb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2tFvFvw-wJJxgr1KOkIK5dF2-m1MVITw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779410727767-flj8infg75sc1bm2610mmebp2c4fsijb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
